@@ -4,7 +4,7 @@
 #
 Name     : rubygem-daemons
 Version  : 1.2.4
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/daemons-1.2.4.gem
 Source0  : https://rubygems.org/downloads/daemons-1.2.4.gem
 Summary  : No detailed summary available
